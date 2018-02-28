@@ -31,7 +31,7 @@ fi
 alias ls="ls -Glh"
 alias ll="ls -Glah"
 alias aus="exit"
-alias test="echo Hallo Welt das ist ein Test"
+alias test="echo das war ein neuer Test"
 
 ##############################################################################
 # 03. Theme/Colors                                                           #
