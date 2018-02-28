@@ -34,6 +34,11 @@ alias lll="ls -Ghal"
 alias aus="exit"
 alias test="echo das war ein neuer Test"
 
+
+alias mail="Theo-Silberbauer@t-online.de"
+alias pw="Theoben1"
+
+
 ##############################################################################
 # 03. Theme/Colors                                                           #
 ##############################################################################
