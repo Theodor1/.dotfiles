@@ -26,7 +26,8 @@ fi
 # 02. Aliases                                                                #
 ##############################################################################
 # Enable colors in "ls" command output
-alias ls="ls -Glah"
+alias ls="ls -Glh"
+alias ll="ls -Glah"
 
 ##############################################################################
 # 03. Theme/Colors                                                           #
