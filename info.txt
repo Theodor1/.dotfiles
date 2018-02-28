@@ -8,6 +8,13 @@
 ======================================================
 	Shell datei initialisieren und ausfuehren
 ======================================================
-
 chmod +x dateiname.sh		//initialisieren
-./dateiname.sh			//ausfuehren
+./dateiname.sh	    		//ausfuehren
+
+bash dateiname.sh       //ausfuehren
+
+
+======================================================
+  zu .bashrc
+======================================================
+source .bashrc          //.bashrc neu laden
