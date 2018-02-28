@@ -87,5 +87,3 @@ for file in $files; do
     ln -s $dir/$basename ~/.$targetname
 done
 
-source ~/.bashrc
-source ~/.vimrc
